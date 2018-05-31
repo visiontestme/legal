@@ -5,20 +5,20 @@ Protecting your private information is our priority. This Statement of Privacy a
 Collection of your Personal Information 
 In order to better provide you with products and services offered on our Site, Vision Test Me may collect personally identifiable information, such as your: 
 
- -	First and Last Name 
- -	Mailing Address 
- -	E-mail Address 
- -	Phone Number 
- -	Employer 
- -	Job Title 
- -	Various medical information and medical history 
+-	First and Last Name 
+-	Mailing Address 
+-	E-mail Address 
+-	Phone Number 
+-	Employer 
+-	Job Title 
+-	Various medical information and medical history 
  
 Vision Test Me may also collect anonymous demographic information, which is not unique to you, such as your: 
 
- -	Age 
- -	Gender 
- -	Race 
- -	Household Income 
+-	Age 
+-	Gender 
+-	Race 
+-	Household Income 
   
 We do not collect any personal information about you unless you voluntarily provide it to us. However, you may be required to provide certain personal information to us when you elect to use certain products or services available on the Site. These may include: (a) registering for an account on our Site; (b) entering a sweepstakes or contest sponsored by us or one of our partners; (c) signing up for special offers from selected third parties; (d) sending us an email message; (e) submitting your credit card or other payment information when ordering and purchasing products and services on our Site. To wit, we will use your information for, but not limited to, communicating with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future. 
 
@@ -57,8 +57,8 @@ This website contains links to other sites. Please be aware that we are not resp
 Security of your Personal Information 
 Vision Test Me secures your personal information from unauthorized access, use, or disclosure. Vision Test Me uses the following methods for this purpose: 
 
- -	SSL Protocol 
- -	Verisign 
+-	SSL Protocol 
+-	Verisign 
  
 When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol. 
 
